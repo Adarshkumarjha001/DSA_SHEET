@@ -9,7 +9,7 @@ class Solution{
           if(A[i]==0){
               swap(A[i],A[j++]);
           }
-      }
+      }   
     
 
       }
