@@ -14,6 +14,7 @@ class Solution{
            sum-=a[i];
            if(sum==rightsum){
                return i+1;
+
            }
            rightsum+=a[i];
        }
